@@ -1,0 +1,106 @@
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+E:\桐梓调运\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+E:\桐梓调运\含有内部卡号的ICCardInitialize\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+E:\桐梓调运\含有内部卡号的ICCardInitialize\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.pdb
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ResolveAssemblyReference.cache
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_Initial.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PasswordSet.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_UserLogin.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PortSet.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.MainForm.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.Properties.Resources.resources
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.csproj.GenerateResource.Cache
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.exe
+D:\工作空间\公司项目\桐梓项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.pdb
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.exe
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.pdb
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.exe
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.pdb
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ResolveAssemblyReference.cache
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_CheckCardNO.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_Initial.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PasswordSet.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_UserLogin.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PortSet.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.MainForm.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.Properties.Resources.resources
+D:\工作空间\公司项目\六枝项目\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.csproj.GenerateResource.Cache
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.exe
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.pdb
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.exe
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.pdb
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ResolveAssemblyReference.cache
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_CheckCardNO.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_Initial.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PasswordSet.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_UserLogin.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PortSet.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.MainForm.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.Properties.Resources.resources
+F:\project\六枝所有源程序\天科IC卡初始化程序最终版\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.csproj.GenerateResource.Cache

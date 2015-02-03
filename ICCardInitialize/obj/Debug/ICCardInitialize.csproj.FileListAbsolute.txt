@@ -1,0 +1,132 @@
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\ThirdLibrary.dll
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\DHPlaySDKCS.dll
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\DHNetSDKCS.dll
+F:\project\调运产品\Newest\ICCardInitialize\ICCardInitialize\bin\Debug\ThirdLibrary.pdb
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\DHPlaySDKCS.dll
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\DHNetSDKCS.dll
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Debug\ThirdLibrary.pdb
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\ThirdLibrary.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\Interop.HVActiveX2Lib.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\AxInterop.HVActiveX2Lib.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\DHPlaySDKCS.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\DHNetSDKCS.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\Interop.WIA.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\AxInterop.WIA.dll
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\bin\Debug\ThirdLibrary.pdb
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\调运系统\子长\PlatForm\初始化程序\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.ttt.resources
+D:\BaiduYunDownload\ICCardInitialize电子标签初始化源码（v2.0.0）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+C:\Users\Administrator\Desktop\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+C:\Users\Administrator\Desktop\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.ttt.resources
+C:\Documents and Settings\Administrator\桌面\ICCardInitialize电子标签初始化源码（v2.0.1）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe.config
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.exe
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.pdb
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.exe
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\bin\Debug\ICCardInitialize.pdb
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ResolveAssemblyReference.cache
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_CheckCardNO.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.RF_Initial.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_Initial.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_UserLogin.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.IC_PortSet.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.MainForm.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.Properties.Resources.resources
+D:\YPF\北京天大天科公司\项目相关\4、子长调运项目\0、源码\电子标签初始化\ICCardInitialize电子标签初始化源码（v2.0.2）--添加数据同步日志\ICCardInitialize电子标签初始化源码（v2.0.2）\ICCardInitialize电子标签初始化源码\ICCardInitialize\ICCardInitialize\obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache

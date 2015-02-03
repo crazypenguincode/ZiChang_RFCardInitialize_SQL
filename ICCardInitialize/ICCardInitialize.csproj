@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D2EBC51-03AC-4E1E-85ED-287B07BE6EF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ICCardInitialize</RootNamespace>
+    <AssemblyName>ICCardInitialize</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationIcon>tk.ICO</ApplicationIcon>
+    <PublishUrl>http://localhost/ICCardInitialize/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThirdLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\ThirdLibrary\ThirdLibrary\bin\Release\ThirdLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="RF_CheckCardNO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RF_CheckCardNO.Designer.cs">
+      <DependentUpon>RF_CheckCardNO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RF_Initial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RF_Initial.Designer.cs">
+      <DependentUpon>RF_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CryptDes.cs" />
+    <Compile Include="DbHelperSQL.cs" />
+    <Compile Include="IC_CheckCardNO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IC_CheckCardNO.Designer.cs">
+      <DependentUpon>IC_CheckCardNO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IC_Initial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IC_Initial.Designer.cs">
+      <DependentUpon>IC_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IC_PasswordSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IC_PasswordSet.Designer.cs">
+      <DependentUpon>IC_PasswordSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IC_UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IC_UserLogin.Designer.cs">
+      <DependentUpon>IC_UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IC_PortSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IC_PortSet.designer.cs">
+      <DependentUpon>IC_PortSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="RF_CheckCardNO.resx">
+      <DependentUpon>RF_CheckCardNO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RF_Initial.resx">
+      <DependentUpon>RF_Initial.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IC_CheckCardNO.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IC_CheckCardNO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IC_Initial.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IC_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IC_PasswordSet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IC_PasswordSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IC_UserLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IC_UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IC_PortSet.resx">
+      <DependentUpon>IC_PortSet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RWCard.cs" />
+    <Compile Include="RWini.cs" />
+    <Compile Include="SParameter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Resources\bg1.jpg" />
+    <None Include="Resources\Login.gif" />
+    <Content Include="Resources\bg.jpg" />
+    <Content Include="Resources\Main.jpg" />
+    <Content Include="tk.ICO" />
+    <Content Include="初始化用的的表结构.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

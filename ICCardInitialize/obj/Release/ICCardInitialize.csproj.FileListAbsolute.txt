@@ -1,0 +1,14 @@
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.exe.config
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.exe
+E:\平台\ICCardInitialize\ICCardInitialize\bin\Release\ICCardInitialize.pdb
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ResolveAssemblyReference.cache
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_CheckCardNO.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_Initial.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PasswordSet.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_UserLogin.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.IC_PortSet.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.MainForm.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.Properties.Resources.resources
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.csproj.GenerateResource.Cache
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.exe
+E:\平台\ICCardInitialize\ICCardInitialize\obj\Release\ICCardInitialize.pdb

@@ -1,0 +1,17 @@
+﻿if exists (select * from sysobjects where id = OBJECT_ID('[TT_InitialCard]') and OBJECTPROPERTY(id, 'IsUserTable') = 1) 
+DROP TABLE [TT_InitialCard]
+CREATE TABLE [TT_InitialCard] (
+[CardID] [varchar]  (20) NOT NULL,
+[CardNO] [varchar]  (20) NULL,
+[CardType] [varchar]  (1) NOT NULL,
+[InitialTime] [datetime]  NULL,
+[IntialPerson] [nvarchar]  (40) NULL)
+ALTER TABLE [TT_InitialCard] WITH NOCHECK ADD  CONSTRAINT [PK_TT_InitialCard] PRIMARY KEY  NONCLUSTERED ( [CardID],[CardType])
+GO
+
+if exists (select * from sysobjects where id = OBJECT_ID('[TT_RFCard]') and OBJECTPROPERTY(id, 'IsUserTable') = 1) 
+DROP TABLE [TT_RFCard]
+CREATE TABLE [TT_RFCard] (
+[CardCode] [varchar]  (12) primary key,
+[InitialTime] [datetime]  NULL,
+[IntialPerson] [nvarchar]  (40) NULL)

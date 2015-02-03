@@ -1,0 +1,13 @@
+obj\Debug\ICCardInitialize.exe
+obj\Debug\ICCardInitialize.pdb
+bin\Debug\ICCardInitialize.exe
+bin\Debug\ICCardInitialize.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ICCardInitialize.IC_CheckCardNO.resources
+obj\Debug\ICCardInitialize.IC_Initial.resources
+obj\Debug\ICCardInitialize.IC_PasswordSet.resources
+obj\Debug\ICCardInitialize.IC_UserLogin.resources
+obj\Debug\ICCardInitialize.IC_PortSet.resources
+obj\Debug\ICCardInitialize.MainForm.resources
+obj\Debug\ICCardInitialize.Properties.Resources.resources
+obj\Debug\ICCardInitialize.csproj.GenerateResource.Cache
